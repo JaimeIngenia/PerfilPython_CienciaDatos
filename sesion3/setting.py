@@ -1,0 +1,1 @@
+APY_KEY = "RGAPI-9946e08a-6bed-474f-b6a1-b3fcf9b7f8b2"
